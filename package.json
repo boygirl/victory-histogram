@@ -1,0 +1,19 @@
+{
+  "name": "victory-histogram",
+  "version": "0.0.1",
+  "description": "histogram component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-histogram.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-histogram/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-histogram",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
